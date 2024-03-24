@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I'm also interested in literature, poetry, inspirational writing, marketing opportunities, and more.
 - ☻ I'm always open to trying new things and looking for opportunities to expand my knowledge.
 - Contact me by mail if you'd like to collaborate. 
-- 👨‍💻 The link to my Portfolio is [file:///C:/Users/bhavy/OneDrive/Desktop/Portfolio%20website/index.html](file:///C:/Users/bhavy/OneDrive/Desktop/Portfolio%20website/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
