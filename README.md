@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bhavya Kadiyala</h1>
 <h3 align="center">Pursuing a Bachelor's in Technology || Passionate about ML || Curious about- Cloud Computing and Web development || Actively seeking internships || Open to freelancing opportunities</h3>
 
-- 🔭 I’m currently working on *customer lifetime values*
-
-- 🌱 I’m currently learning *Cloud Computing and web devlopment*
-
-- 👨‍💻 All of my projects are available at [file:///C:/Users/bhavy/OneDrive/Desktop/Portfolio%20website/index.html](file:///C:/Users/bhavy/OneDrive/Desktop/Portfolio%20website/index.html)
-
-- 💬 Ask me about *ML*
-
-- 📫 How to reach me *bhavyasreekadiyala2004@gmail.com*
+- 👋 A student at MBU under CSE, pursuing a Bachelor's in Tech.
+- 👀 I’m interested in Machine Learning and AI, Web development projects, and Cloud Computing.
+- 🌱 I’m currently learning in depth about Web development and committing to a journal publication in ML about CLV Prediction. 
+- 📫 You can reach me by email- bhavyasreekadiyala2004@gmail.com / bhavyakadiyala04@gmail.com
+- ⚡ Fun fact: I'm also interested in literature, poetry, inspirational writing, marketing opportunities, and more.
+- ☻ I'm always open to trying new things and looking for opportunities to expand my knowledge.
+- Contact me by mail if you'd like to collaborate. 
+- 👨‍💻 The link to my Portfolio is [file:///C:/Users/bhavy/OneDrive/Desktop/Portfolio%20website/index.html](file:///C:/Users/bhavy/OneDrive/Desktop/Portfolio%20website/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
